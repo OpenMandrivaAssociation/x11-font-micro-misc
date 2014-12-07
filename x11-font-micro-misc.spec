@@ -1,6 +1,6 @@
 Name: x11-font-micro-misc
 Version: 1.0.3
-Release: 13
+Release: 14
 Summary: Xorg X11 font micro-misc
 Group: Development/X11
 URL: http://xorg.freedesktop.org
